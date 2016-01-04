@@ -1,0 +1,22 @@
+{
+  "name": "quicknote",
+  "version": "0.0.1",
+  "description": "Fast note sharing tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronll/Quicknote.git"
+  },
+  "author": "Ron Lapushner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ronll/Quicknote/issues"
+  },
+  "homepage": "https://github.com/Ronll/Quicknote#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
