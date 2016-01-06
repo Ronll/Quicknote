@@ -1,0 +1,8 @@
+doctype
+head
+    title Quicknote
+body
+    h1 Note# #{ id }
+    p #{ text }
+    form(action="/" method="GET")
+        input(type="text" placeholder="enter note Id (1234)" name="id")
